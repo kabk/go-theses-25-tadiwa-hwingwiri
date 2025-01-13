@@ -1,2 +1,3 @@
-# go-theses-25-tadiwa-hwingwiri
- My thesis
+# A boilerplate template without CSS styles
+
+The default styling from the browser.
